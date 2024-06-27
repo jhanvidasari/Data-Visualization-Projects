@@ -1,6 +1,6 @@
 # PROBLEM STATEMENT
 
-### * How does the funding ecosystem change with respect?
+* How does the funding ecosystem change with respect?
 ### * What is the general amount that startups get in India?
 ### * What kind of industries is more preferred for startups?
 ### * Does location also play a role, in determining the growth of a startup?
