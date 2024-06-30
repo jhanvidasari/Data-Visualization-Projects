@@ -1,2 +1,2 @@
-# ML-Projects
-ML Self-Learning Projects
+# Data Visualization 
+Self-Learning Projects
